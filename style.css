@@ -8,22 +8,30 @@
 body{
   background-color:hsl(0, 0%, 66%);
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-  line-height: 1em;
-  font-family: Georgia, serif;
+  /* line-height: 1em; */
+  font-family: 'Kavoon', cursive, Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  font-variant: small-caps;
+  letter-spacing: 2px;
 }
 h2{
-  font-family: Georgia, serif;
-  font-weight: normal;
+  font-family: 'Kavoon', cursive, Arial, Helvetica, sans-serif;
+  letter-spacing: 2.5px;
 }
 .paragraphs{
   line-height: 1.3em;
   background-color: lightgrey;
   color:#780778; 
   padding: 1em;
-  font-family: Helvetica, sans-serif;
+  /* font-family: Helvetica, sans-serif; */
+  font-family: 'Mukta', sans-serif;
   margin: 15px 0;
+  line-height: 1.5;
+  font-size: 1.2em;
+  letter-spacing: 1.2px;
 }
 .main{
   width: 40%;
