@@ -23,9 +23,9 @@ h2{
   color:#780778; 
   padding: 1em;
   font-family: Helvetica, sans-serif;
+  margin: 15px 0;
 }
-
-.container{
-  width: 30%;
+.main{
+  width: 40%;
   margin: auto;
 }
