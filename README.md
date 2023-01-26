@@ -1,4 +1,4 @@
-Course title; CPNT 260 - Web Page Construction Fundamentals
+# Course title; CPNT 260 - Web Page Construction Fundamentals
 Assignment name; Assignment 1 - Text Column
 By Kaleb Berhane: source= [what's your impact](https://whatsyourimpact.org/)
 GH Pages site= https://kaleb-cpu.github.io/cpnt260-a1-text-colomun/
